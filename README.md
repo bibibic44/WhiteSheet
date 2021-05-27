@@ -154,6 +154,9 @@ final-pjt-back
             __init__.cpython-38.pyc
 ```
 
+- 컴포넌트 구조
+
+  ![컴포넌트 구조](README.assets/컴포넌트 구조.png)
 
 
 

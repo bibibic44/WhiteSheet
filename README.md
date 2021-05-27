@@ -159,19 +159,30 @@ final-pjt-back
 
 ## 2. 팀원 정보 및 업무 분담 내역
 
-백지장 team
+### 2.1. 팀원 정보
 
-기능별로 나누어서 작업
+- 팀장 : 이은총
+- 팀원 : 홍원기, 이현두
+- 기타사항(이현두 : 면접일정으로 인해 프로젝트 중간, 면접대비)
 
+![화면 캡처 2021-05-27 174700](README.assets/화면 캡처 2021-05-27 174700-1622105790953.png)
 
+### 2.2. 페이지별 업무 분담 내역
 
-
-
-이은총
-
-홍원기
-
-이현두
+- Signup: 이현두
+- Login: 이현두
+- Social Login : 이현두
+- Logout : 이현두
+- Home : 이은총
+- MovieDetail : 홍원기
+- Movie Recommender : 이은총
+- ReviewList : 이은총
+- Review Detail : 홍원기
+- Review Create : 이은총
+- Review Update : 홍원기
+- Review Delete : 홍원기
+- Comment Create : 홍원기
+- Comment Delete : 홍원기
 
 
 

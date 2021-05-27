@@ -39,7 +39,7 @@
 import axios from 'axios'
 import MovieCard from '@/components/MovieCard'
 
-const API_KEY = process.env.VUE_APP_TMDB_API_KEY
+const API_KEY = 'fb9be8dd33947a81a9eb5a9e7fca2f5e'
 const NOW_PLAYING_MOVIE_URL = `https://api.themoviedb.org/3/movie/now_playing?api_key=${API_KEY}&language=ko-KR&page=`
 const POPULAR_URL = `https://api.themoviedb.org/3/movie/popular?api_key=${API_KEY}&language=ko-KR&page=`
 const TOP_RATED_URL = `https://api.themoviedb.org/3/movie/top_rated?api_key=${API_KEY}&language=ko-KR&page=`
